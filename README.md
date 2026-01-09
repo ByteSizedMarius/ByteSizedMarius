@@ -1,6 +1,7 @@
 go enthusiast • cybersecurity enjoyer • reinventor of wheels • opendata appreciator • 0.1x engineer
 
 ### recent projects
+- [rewerse-engineering](https://github.com/ByteSizedMarius/rewerse-engineering): Go library and CLI for querying rewe's API
 - [go-fritzbox-api](https://github.com/ByteSizedMarius/go-fritzbox-api): Go-based API for interacting with Fritz!Box for smart home purposes
 - [fritzbox-wireguard-relay](https://github.com/ByteSizedMarius/fritzbox-wireguard-relay): Automated setup of an IPv4-to-IPv6 WireGuard relay for FritzBox
 - [gh-desktop-patches](https://github.com/ByteSizedMarius/gh-desktop-patches): Custom patches for github desktop
