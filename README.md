@@ -8,5 +8,5 @@ go enthusiast • cybersecurity enjoyer • reinventor of wheels • opendata ap
 - [microsoft-3d-builder-patch](https://github.com/ByteSizedMarius/microsoft-3d-builder-patch): Offline installer and Store licensing bypass for Microsoft 3D Builder
 - edeka (not public): Reverse engineering of edeka app
 - backupper: Declarative sneakernet backup orchestrator for cherry-picking specific directories across multiple servers onto a single drive
-- medialibrary (not public): Minimalist mediaserver and -organizer for browsying and delivering media as hls streams from go-backend to flutter windows/android clients
+- medialibrary (not public): Minimalist mediaserver and -organizer for browsing and delivering media as hls streams from go-backend to flutter windows/android clients
 - home app (not public): Go backend, flutter frontend for organizing life, including smarthome, chores, fitness tracking, calendar management, shoppinglist and others
