@@ -2,7 +2,7 @@ go enthusiast • cybersecurity enjoyer • reinventor of wheels • opendata ap
 
 ### recent projects
 - [rewerse-engineering](https://github.com/ByteSizedMarius/rewerse-engineering): Go library and CLI for querying rewe's API
-- [edekompile](https://github.com/ByteSizedMarius/edekompile): RGo library and CLI for querying edeka's API (rel: [edekompile-auth-helper](https://github.com/ByteSizedMarius/edekompile-auth-helper))
+- [edekompile](https://github.com/ByteSizedMarius/edekompile): Go library and CLI for querying edeka's API (rel: [edekompile-auth-helper](https://github.com/ByteSizedMarius/edekompile-auth-helper))
 - [go-fritzbox-api](https://github.com/ByteSizedMarius/go-fritzbox-api): Go-based API for interacting with Fritz!Box for smart home purposes
 - [fritzbox-wireguard-relay](https://github.com/ByteSizedMarius/fritzbox-wireguard-relay): Automated setup of an IPv4-to-IPv6 WireGuard relay for FritzBox
 - [gh-desktop-patches](https://github.com/ByteSizedMarius/gh-desktop-patches): Custom patches for github desktop
